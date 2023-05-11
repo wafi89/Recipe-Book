@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Recipe Book</string>
+
+    <!-- App bar-->
+    <string name="top_app_bar_title_home">Recipe Book</string>
+    <string name="top_app_bar_title_null" />
+    <string name="main_error_load_items">Error load items</string>
+
+    <!-- Recipe detail-->
+    <string name="recipe_detail_delete_successfully">Recipe deleted successfully</string>
+
+    <!-- Add recipe-->
+    <string name="add_recipe_successfully_added_recipe">Successfully added recipe</string>
+    <string name="add_recipe_enter_ingredient">Enter ingredient</string>
+    <string name="add_recipe_ok">OK</string>
+    <string name="add_recipe_cancel">Cancel</string>
+    <string name="add_recipe_enter_step">Enter step</string>
+
+    <!-- Recipe list-->
+    <string name="recipe_add_new_recipe">Add new recipe</string>
+
+    <!-- Image content description-->
+    <string name="content_description_recipe_image">recipe image</string>
+
+</resources>

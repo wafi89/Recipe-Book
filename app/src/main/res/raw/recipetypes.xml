@@ -1,0 +1,34 @@
+<recipetypes>
+    <recipetype>
+        <id>1</id>
+        <name>Beef</name>
+    </recipetype>
+    <recipetype>
+        <id>2</id>
+        <name>Chicken</name>
+    </recipetype>
+    <recipetype>
+        <id>3</id>
+        <name>Dessert</name>
+    </recipetype>
+    <recipetype>
+        <id>4</id>
+        <name>Lamb</name>
+    </recipetype>
+    <recipetype>
+        <id>5</id>
+        <name>Pasta</name>
+    </recipetype>
+    <recipetype>
+        <id>6</id>
+        <name>Seafood</name>
+    </recipetype>
+    <recipetype>
+        <id>7</id>
+        <name>Breakfast</name>
+    </recipetype>
+    <recipetype>
+        <id>8</id>
+        <name>Miscellaneous</name>
+    </recipetype>
+</recipetypes>
